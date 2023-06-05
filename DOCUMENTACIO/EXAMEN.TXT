@@ -43,3 +43,10 @@ git push
 git add .
 git commit -m "version 5"
 git push
+
+###################### EX 6 ##########################
+git branch projecte
+git checkout projecte
+git add .
+git commit -m "version 6"
+git push
