@@ -1,0 +1,15 @@
+
+######################### EX1 ##########################
+
+echo "# RECUPERACIO GITHUB | 05/06/23" >> README.md
+git init
+git add README.md
+git commit -m "README"
+git branch -M main
+git remote add origin https://github.com/Ahnuar/RECUM5UF2.git
+git push -u origin main
+mkdir DOCUMENTACIO
+cd DOCUMENTACIO
+
+
+######################## EX2 ###########################
