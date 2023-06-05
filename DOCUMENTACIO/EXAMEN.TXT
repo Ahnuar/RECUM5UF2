@@ -49,4 +49,5 @@ git branch projecte
 git checkout projecte
 git add .
 git commit -m "version 6"
-git push
+git push --set-upstream origin projecte
+
