@@ -38,3 +38,8 @@ mv ../DossierGitGitHub.pdf ./TEMARIS/
 git add .
 git commit -m "version 4"
 git push
+
+####################### EX4 ############################
+git add .
+git commit -m "version 5"
+git push
