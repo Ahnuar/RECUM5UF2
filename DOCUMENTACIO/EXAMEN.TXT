@@ -28,7 +28,13 @@ git push
 
 mkdir TEMARIS
 mv ../M5-UF2-Temari.pdf ./TEMARIS/
-cd DOCUMENTACIO/
 git add .
 git commit -m "version 3"
+git push
+
+####################### EX3 #############################
+
+mv ../DossierGitGitHub.pdf ./TEMARIS/
+git add .
+git commit -m "version 4"
 git push
