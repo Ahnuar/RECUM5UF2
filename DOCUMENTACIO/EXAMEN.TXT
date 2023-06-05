@@ -51,3 +51,7 @@ git add .
 git commit -m "version 6"
 git push --set-upstream origin projecte
 
+######################### EX 7 #######################
+git checkout main
+git merge projecte
+git push
