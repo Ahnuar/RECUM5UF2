@@ -10,6 +10,16 @@ git remote add origin https://github.com/Ahnuar/RECUM5UF2.git
 git push -u origin main
 mkdir DOCUMENTACIO
 cd DOCUMENTACIO
+cd ..
+git add .
+git commit –m “Version 1”
+git push
 
 
 ######################## EX2 ###########################
+
+mkdir M5UF2 
+fichero movido desde entorno grafico (hacer un mv a la ruta acutal)
+git add .
+git commit -m "version 2"
+git push
